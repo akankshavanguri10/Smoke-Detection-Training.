@@ -1,1 +1,1 @@
-# smoke-detection-Training.
+# Smoking_Detection_Training
